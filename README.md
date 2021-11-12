@@ -1,6 +1,6 @@
 # CRUD
  <p>Crud simples , cadastro de clientes e armazenados no localstorege da maquina que estiver rodando.
-    Projeto focado com sitema de read (Leitura), update (Atualizar), create (Criar), delete (Deletar), assim formando um sistemas CRUD. Projetado com intuito de cadastro de       clientes, ao cliclar em cadstrar cliente surge um modal para cadastro, e assim podedendo guardas informações como, nome completo, e-mail, número de telefone ou celular e cidade do cliente.
+    Projeto focado com sitema de read (Leitura), update (Atualizar), create (Criar), delete (Deletar), assim formando um sistemas CRUD. Projetado com intuito de cadastro de       clientes, ao clicar em cadstrar cliente surge um modal para cadastro, e assim podedendo guardas informações como, nome completo, e-mail, número de telefone ou celular e cidade do cliente.
   
   
   
