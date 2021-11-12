@@ -25,7 +25,7 @@
   
   
   
-  # Projeto em formato Desktop
+  # Projeto em formato mobile
   
   ![mobile-cadastro](https://user-images.githubusercontent.com/62466598/141512687-8e228d3b-6692-4949-bc64-ceb2c16a385e.png)
 
