@@ -12,14 +12,14 @@
   <p> Javascript </p>
   
   
-  # Projeto em formado Desktop.
+  # Projeto em formato Desktop.
   
   
   ![cadastro-cliente](https://user-images.githubusercontent.com/62466598/141511164-bfba8ffb-cddf-4b6b-a31c-d3cf425fa3c5.png)
   
   
   
-  # Modal aberto para cadstro de clientes
+  # Modal aberto para cadastro de clientes
   
   ![modal-open](https://user-images.githubusercontent.com/62466598/141512493-e981d591-c311-45a0-9c01-74fa8071518c.png)
   
