@@ -13,7 +13,7 @@
 
 .button.blue{
     background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
-    border-radius:50%;
+    border-radius:8px;
 }
 
 button.green{
@@ -47,6 +47,7 @@ button.red{
         color:black;
         font-size:2rem;
         width:100%;
+        border-radius:50%;
         height:100%;
     }
     .button {
