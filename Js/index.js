@@ -78,7 +78,7 @@ const createRow = (client, index) => {
             <button type="button" class="button green" id="edit-${index}">Editar</button>
             <button type="button" class="button red" id="delete-${index}" >Excluir</button>
         </td>
-    `
+    `;
     document.querySelector('#tableClient>tbody').appendChild(newRow)
 }
 
